@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695153225 source:c:\users\user\desktop\a level csc\rps\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

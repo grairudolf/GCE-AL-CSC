@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1700773463 source:c:\users\user\desktop\us6 project\sort\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1700741104 source:c:\users\user\desktop\a level csc\sort\main.c
+	<stdio.h>
+	<stdlib.h>
+
