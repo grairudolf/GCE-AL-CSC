@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706819677 source:c:\users\user\desktop\us6 csc projects\programming\round robin\roundrobin.c
+	<stdio.h>
+	<stdlib.h>
+

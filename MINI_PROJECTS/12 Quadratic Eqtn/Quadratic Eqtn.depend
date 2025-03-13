@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1699466450 source:c:\users\user\desktop\a level csc\quadratic eqtn\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1702233634 source:c:\users\user\desktop\us6 csc projects\programming\mini_project\quadratic eqtn\main.c
+	<stdio.h>
+	<math.h>
+

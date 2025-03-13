@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1702580512 source:c:\users\user\desktop\us6 csc projects\programming\truth tables\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1704208996 source:c:\users\user\desktop\us6 csc projects\programming\truth tables\truth table.c
+	<stdio.h>
+	<stdlib.h>
+

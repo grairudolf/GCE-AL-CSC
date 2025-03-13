@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1701374295 source:c:\users\user\desktop\us6 csc projects\programming\task 38 convert to celsius\tally\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1702143607 source:c:\users\user\desktop\us6 csc projects\programming\mini_project\tally\main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699988282 source:c:\users\user\desktop\a level csc\guess\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
