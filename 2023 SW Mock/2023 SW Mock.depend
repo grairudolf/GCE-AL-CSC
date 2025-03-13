@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1703967455 source:c:\users\user\desktop\us6 csc projects\programming\2023 sw mock\2023 sw mock.c
+	<stdio.h>
+	<math.h>
+
+1704816658 source:c:\users\user\desktop\us6 csc projects\programming\2023 sw mock\2023 swr mock.c
+	<stdio.h>
+	<stdlib.h>
+

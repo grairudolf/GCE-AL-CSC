@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713199814 source:c:\users\user\desktop\us6 csc projects\programming\2024 nwr mock\nwr mock.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+
