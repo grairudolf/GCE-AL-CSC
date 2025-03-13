@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712403583 source:c:\users\user\desktop\us6 csc projects\programming\task 46 searching and sorting an integer list\searching.c
+	<stdio.h>
+	<stdlib.h>
+
